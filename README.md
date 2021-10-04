@@ -37,13 +37,13 @@ Three t-tests that compare each manufacturing lot against mean PSI of the popula
 
 Three t-tests were performed to compare each manufacturing lot PSI against the mean PSI of the population. 
 * Lot 1:
-  - The results of this t-test indicates that there is not enough evidence to suggest that the true mean is not equal to 1500 pounds per square inch, therefore, we fail to reject the null hypothesis based on a p-value of 1 and a significance level of 0.001.
+  - The results of this t-test indicate that there is not enough evidence to suggest that the true mean is not equal to 1500 pounds per square inch, therefore, we fail to reject the null hypothesis based on a p-value of 1 and a significance level of 0.001.
 
 * Lot 2:
-  - The results of this t-test indicates that there is not enough evidence to suggest that the true mean is not equal to 1500 pounds per square inch, therefore, we fail to reject the null hypothesis based on a p-value of 0.6072 and a significance level of 0.001.
+  - The results of this t-test indicate that there is not enough evidence to suggest that the true mean is not equal to 1500 pounds per square inch, therefore, we fail to reject the null hypothesis based on a p-value of 0.6072 and a significance level of 0.001.
 
 * Lot 3:
-  - This t-test indicates that there is not enough evidence to suggest that the true mean is not equal to 1500 pounds per square inch, therefore, we fail to reject the null hypothesis based on a p-value of 0.04168 and a significance level of 0.001. As there is a smaller p-value for the t-test of the Lot 3 sample, it could be effective to run another sample of Lot 3 PSI data.
+  - This t-test indicate that there is not enough evidence to suggest that the true mean is not equal to 1500 pounds per square inch, therefore, we fail to reject the null hypothesis based on a p-value of 0.04168 and a significance level of 0.001. As there is a smaller p-value for the t-test of the Lot 3 sample, it could be effective to run another sample of Lot 3 PSI data.
 
 
 ## Study Design: MechaCar vs Competition
